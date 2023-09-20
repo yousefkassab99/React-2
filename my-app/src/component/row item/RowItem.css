@@ -1,0 +1,15 @@
+.row{
+    height: 60px;
+    background:white;
+    padding-top: 5px;
+}
+.st{
+    background: #badc58;
+    color: white;
+}
+
+.io{
+    color: black;
+    font-weight: bold;
+    align-items: start !important ;
+}

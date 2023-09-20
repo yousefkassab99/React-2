@@ -1,0 +1,16 @@
+.btn {
+  padding: 10px 40px;
+  color: #fff;
+  border-radius: 5px;
+  width: fit-content;
+
+  outline: none;
+  border: none;
+}
+
+.bg-red {
+  background: #ff7979;
+}
+.bg-green {
+  background: #6ab04c;
+}
