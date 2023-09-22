@@ -1,24 +1,19 @@
+import { useState } from 'react';
 import './App.css';
-import Inputcard from './component/input card/Inputcard';
-import TodosCard from './component/todos card/TodosCard';
+
+import Home from './pages/home/Home';
 
 function App() {
+
+
   return (
     <div className="container">
-    <div className='first-div'>
-      <h1>TODP List</h1>
-    <Inputcard/>
-  
-    </div>
-    <div className='second-div'>
-    <TodosCard/>
-    </div>
-   
+      <Home />
     </div>
   );
 }
 
- export default App;
+export default App;
 
 
 

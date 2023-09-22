@@ -23,7 +23,7 @@ table{
     align-items: center; */
     width: 100%;
     border-spacing: 0;
-    background: #d0d0d0;
+    /* background: ; */
 
 }
 .ti-row{
@@ -32,10 +32,9 @@ table{
 table td {
     margin: 10px;
     color: red;
+    
 }
-/* table tr:nth-child(1){
-background: #d0d0d0;
-} */
+
 
 
 table tr td {

@@ -13,3 +13,24 @@
     font-weight: bold;
     align-items: start !important ;
 }
+tr{
+margin-bottom: 10px;
+ height: 60px;
+}
+
+
+.we{
+    text-align: left !important;
+    padding-left: 20px;
+    width: 45%;
+    color: black;
+    font-weight: bold;
+}
+.lo{
+    text-align: center !important;
+    width:23%;
+}
+#w{
+    text-align: center !important;
+    width:23%;
+}
